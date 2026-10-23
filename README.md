@@ -119,19 +119,3 @@ VyapaarIQ/
 - Use `.env` files for configuration secrets when required.
 - Use anonymized or sample datasets when sharing demonstrations publicly.
 
-## 👩‍💻 Author
-
-**Niyati Gupta**
-
-Computer Engineering | Data Analytics | AI & Software Development
-
-- GitHub: [@kneeyeahtea](https://github.com/kneeyeahtea)
-- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
-
-## 📄 License
-
-Add a license file if you intend to distribute or open-source the project.
-
----
-
-*VyapaarIQ — Turning retail data into business intelligence.*
